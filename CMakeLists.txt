@@ -3,7 +3,7 @@ project(c4core
     DESCRIPTION "Multiplatform low-level C++ utilities"
     HOMEPAGE_URL "https://github.com/biojppm/c4core"
     LANGUAGES CXX)
-include(./cmake/c4Project.cmake)
+include(/usr/lib/cmake/c4project/c4Project.cmake)
 include(./compat.cmake)
 
 c4_project(VERSION 0.2.2
