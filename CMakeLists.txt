@@ -69,7 +69,7 @@ set(C4CORE_SRC_FILES
     c4/windows_push.hpp
     c4/c4core.natvis
     #
-    c4/ext/debugbreak/debugbreak.h
+    #c4/ext/debugbreak/debugbreak.h
     c4/ext/rng/rng.hpp
     c4/ext/sg14/inplace_function.h
     )
